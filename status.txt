@@ -1,1 +1,6 @@
-Waiting for email from strava.cz for API...
+APIs:
+http://www.strava.cz/strava/stravnik/jidelnicky?zarizeni=0000 
+http://www.strava.cz/strava/?zarizeni=0000 
+http://www.strava.cz/foxisapi/foxisapi.dll/istravne.istravne.process?xmljidelnickyA&zarizeni=0000 
+http://www.strava.cz/foxisapi/foxisapi.dll/istravne.istravne.process?xmljidelnickyA&zarizeni=0000&jazyk=CZ&httphlavicka=A
+I must create parser for log
